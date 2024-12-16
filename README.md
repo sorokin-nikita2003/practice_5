@@ -8,6 +8,7 @@
 2. [Возможности приложения](app/features.md)
 3. [Ограничения](about/restrictions.md)
 4. [Пользователи](about/users.md)
+5. [Диаграммы](about/diagrams.md)
 
 
 ---
